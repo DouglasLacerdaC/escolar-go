@@ -19,7 +19,7 @@ export function MainLayout() {
           </div>
         </header>
 
-        <div className="p-6">
+        <div className="p-4">
           <Outlet />
         </div>
       </SidebarInset>
