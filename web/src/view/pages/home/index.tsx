@@ -1,4 +1,6 @@
-import { Component } from './components/chart'
+import { PaidCustomersChart } from './components/charts/paid-customers'
+import { QuantityStudentsForYearChart } from './components/charts/quantity-students-for-year'
+import { StudentsByNeighborhoodChart } from './components/charts/students-by-neighborhood'
 
 export function HomePage() {
   return (
@@ -12,10 +14,9 @@ export function HomePage() {
 
       <div className="flex flex-1 flex-col gap-4">
         <div className="grid auto-rows-min gap-4 md:grid-cols-4">
-          <Component />
-          <Component />
-          <Component />
-          <Component />
+          <PaidCustomersChart />
+          <StudentsByNeighborhoodChart />
+          <QuantityStudentsForYearChart />
         </div>
       </div>
     </div>

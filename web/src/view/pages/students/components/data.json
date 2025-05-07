@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Maria Lima",
+    "age": 20,
+    "schoolName": "Escola 1",
+    "responsible": "João Lima",
+    "responsiblePhone": "(11) 91234-5678",
+    "paymentCurrent": true,
+    "paymentDate": "2023-10-01"
+  },
+  {
+    "id": 2,
+    "name": "Pedro Silva",
+    "age": 22,
+    "schoolName": "Escola 2",
+    "responsible": "Ana Silva",
+    "responsiblePhone": "(11) 92345-6789",
+    "paymentCurrent": false,
+    "paymentDate": "2023-09-15"
+  },
+  {
+    "id": 3,
+    "name": "Lucas Santos",
+    "age": 21,
+    "schoolName": "Escola 3",
+    "responsible": "Carlos Santos",
+    "responsiblePhone": "(11) 93456-7890",
+    "paymentCurrent": true,
+    "paymentDate": "2023-10-05"
+  },
+  {
+    "id": 4,
+    "name": "Ana Oliveira",
+    "age": 19,
+    "schoolName": "Escola 4",
+    "responsible": "Fernanda Oliveira",
+    "responsiblePhone": "(11) 94567-8901",
+    "paymentCurrent": false,
+    "paymentDate": null
+  },
+  {
+    "id": 5,
+    "name": "Marcos Pereira",
+    "age": 23,
+    "schoolName": "Escola 1",
+    "responsible": "Roberto Pereira",
+    "responsiblePhone": "(11) 95678-9012",
+    "paymentCurrent": true,
+    "paymentDate": "2023-10-10"
+  },
+  {
+    "id": 6,
+    "name": "Juliana Costa",
+    "age": 20,
+    "schoolName": "Escola 2",
+    "responsible": "Patrícia Costa",
+    "responsiblePhone": "(11) 96789-0123",
+    "paymentCurrent": false,
+    "paymentDate": null
+  }
+]

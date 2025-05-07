@@ -43,8 +43,8 @@ const data = {
       isActive: true,
     },
     {
-      title: 'Responsáveis e alunos',
-      url: '#',
+      title: 'Alunos',
+      url: '/students',
       icon: Users,
     },
     {
